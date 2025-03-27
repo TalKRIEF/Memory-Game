@@ -95,8 +95,8 @@ html, body {
 .Secondary-title {
   color: #c2d6dd;
   font-size: 1.5vw;
-  font-family: "Edu AU VIC WA NT Pre", cursive;
-
+  font-family: "Helvetica";
+  letter-spacing: 0.5px;
 }
 
 .banner {
@@ -177,7 +177,8 @@ html, body {
 
 
 .banner h1 {
-  font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-family: "Helvetica";
+  letter-spacing: 0.5px;
   margin: 0;
   color: #c2d6dd;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
