@@ -5,13 +5,11 @@ import './style.css';
 import './congratulations.css';
 import reportWebVitals from './reportWebVitals';
 import App from './App';
-import SplashCursor from './SplashCursor'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
-    <SplashCursor></SplashCursor>
   </React.StrictMode>
 );
 
